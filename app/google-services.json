@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032036631755",
+    "project_id": "videocall-e9b21",
+    "storage_bucket": "videocall-e9b21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032036631755:android:ad5feab98d1858943e074e",
+        "android_client_info": {
+          "package_name": "com.ahmedeid.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032036631755-vuoh8bch6k4flnqt85q74q9g619491cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwTvdxLDW2QgOX-PvFH2n8apkb99hdWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032036631755-vuoh8bch6k4flnqt85q74q9g619491cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
